@@ -6,16 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jdjannat?tab=repositories](https://github.com/Jdjannat?tab=repositories)
 
-
-
-  <a href="https://www.linkedin.com/in/jainam-darji-75a386195/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
-&nbsp;
-
-<a href="https://www.instagram.com/_m_r_j_d_official/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/jainam.darji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
-
 <a href="https://www.linkedin.com/in/jainam-darji-75a386195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_m_r_j_d_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jainam.darji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simplified learner" height="30" width="40" /></a>
